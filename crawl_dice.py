@@ -11,7 +11,7 @@ collection = db.dice
 
 
 def crwal(url):
-    global  num
+   
 
 
 
